@@ -1,0 +1,8 @@
+[submodule "Plugin/DebugKit"]
+	path = Plugin/DebugKit
+	url = git://github.com/cakephp/debug_kit.git
+	branch = 2.2
+[submodule "app/Plugin/CakeAdmin"]
+	path = app/Plugin/CakeAdmin
+	url = git://github.com/josegonzalez/cakephp-admin.git
+	branch = master
